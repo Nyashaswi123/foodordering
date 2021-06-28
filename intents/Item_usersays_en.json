@@ -1,0 +1,80 @@
+[
+  {
+    "id": "45523d92-7e11-43b2-9ec5-d5482695a34e",
+    "data": [
+      {
+        "text": "samosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0283f590-1d24-406f-a2e6-5494bbab0eaf",
+    "data": [
+      {
+        "text": "chicken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01471c03-8eb6-4987-8e0d-36e8fc22524d",
+    "data": [
+      {
+        "text": "barbaque",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e8c1b7c-22bc-4c26-ae9c-89baebf98f0e",
+    "data": [
+      {
+        "text": "ice cream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f848ca65-92f6-480e-a2a1-2b65c0a5b764",
+    "data": [
+      {
+        "text": "chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c53f6fe7-985d-462f-938b-7b8c4668399f",
+    "data": [
+      {
+        "text": "paneer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

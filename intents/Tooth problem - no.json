@@ -1,0 +1,39 @@
+{
+  "id": "e164458a-1395-437d-a995-69ef51bc4102",
+  "parentId": "20a41dc9-ab71-423c-ba1e-c3cc60b4029c",
+  "rootParentId": "20a41dc9-ab71-423c-ba1e-c3cc60b4029c",
+  "name": "Tooth problem - no",
+  "auto": true,
+  "contexts": [
+    "Toothproblem-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Toothproblem.Toothproblem-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Rinse your mouth with warm water to avoid decay issues."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "22045c1b-6400-49ff-9ed6-fc862f986714",
+    "data": [
+      {
+        "text": "Talk to you later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa6b2587-ad11-4552-957d-3357aa29fcba",
+    "data": [
+      {
+        "text": "I got to go",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c5a0579-3039-4e3e-8118-ad1ccad1b3c5",
+    "data": [
+      {
+        "text": "end",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45bc0ac6-5f89-4088-9898-3417fb36c2be",
+    "data": [
+      {
+        "text": "exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddc1bc94-8b84-4dd0-9b52-cd077f7b205d",
+    "data": [
+      {
+        "text": "cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f3eea65-82ad-4f34-af26-85a94ba918e4",
+    "data": [
+      {
+        "text": "good bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
